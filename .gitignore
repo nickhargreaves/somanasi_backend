@@ -51,3 +51,6 @@ docs/_build/
 
 # JetBrains
 .idea/
+
+# Config File
+settings.py
